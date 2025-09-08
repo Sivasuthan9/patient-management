@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+.idea/libraries/
+.idea/httpRequests/
+
+# Maven
+/target/
+.m2/repository/
+
+# Compiled class files
+*.class
+/bin/
+/build/
+
+# Logs
+/logs/
+*.log
+
+# Windows and macOS
+.DS_Store
+Thumbs.db
