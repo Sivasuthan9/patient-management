@@ -1,4 +1,4 @@
-package com.pm.patientservice;
+package com.pm.patientservice.controller;
 
 import com.pm.patientservice.dto.PatientResponseDTO;
 import com.pm.patientservice.service.PatientService;
